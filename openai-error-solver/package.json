@@ -1,0 +1,28 @@
+{
+  "name": "openai-error-solver",
+  "version": "1.0.0",
+  "description": "A package to capture terminal errors and provide solutions using OpenAI API",
+  "main": "index.js",
+  "bin": {
+    "error-solver": "./index.js"
+  },
+  "keywords": [
+    "openai",
+    "error solver",
+    "CLI",
+    "terminal",
+    "programming"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddz415/error-solver.git"
+  },
+  "author": "Siddharth Dravid",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "dotenv": "^10.0.0",
+    "minimist": "^1.2.8",
+    "openai": "^4.61.0"
+  }
+}
