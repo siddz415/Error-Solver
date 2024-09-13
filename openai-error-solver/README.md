@@ -1,6 +1,6 @@
 # Error-Solver
 
-This package captures terminal errors and suggests solutions using OpenAI's API.
+This NPM package captures terminal errors and suggests solutions using OpenAI's API.
 
 ## Setup
 

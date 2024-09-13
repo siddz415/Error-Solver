@@ -1,6 +1,6 @@
 {
   "name": "openai-error-solver",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A package to capture terminal errors and provide solutions using OpenAI API",
   "main": "index.js",
   "bin": {
